@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GestionContact_Boudjema_Rachdi_Rahmani" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>
